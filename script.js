@@ -4,7 +4,7 @@ const products = [
         id: 1,
         name: "Fresh Milk (1L)",
         price: 12.50,
-        image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        image: "https://www.pinterest.com/pin/28358672650361817/"
         category: "dairy",
         description: "Fresh, creamy milk from local farms"
     },
