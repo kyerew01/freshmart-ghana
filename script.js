@@ -5,7 +5,7 @@ const products = [
         id: 2,
         name: "Yogurt (500ml)",
         price: 8.00,
-        image: "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        image: "images/cart.jpeg",
         category: "dairy",
         description: "Natural yogurt with probiotics"
     },
@@ -13,7 +13,7 @@ const products = [
         id: 3,
         name: "Plantain Chips",
         price: 5.50,
-        image: "https://www.pinterest.com/i/5wF9qkCvh",
+        image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
         category: "snacks",
         description: "Crispy fried plantain chips"
     },
