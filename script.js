@@ -5,7 +5,7 @@ const products = [
         id: 2,
         name: "Yogurt (500ml)",
         price: 8.00,
-        image: "images/cart.jpeg",
+        image: "images/ yogurt.jpeg",
         category: "dairy",
         description: "Natural yogurt with probiotics"
     },
