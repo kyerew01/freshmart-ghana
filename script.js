@@ -1,13 +1,6 @@
 // Product Data for Treats by Kyerew
 const products = [
-    {
-        id: 1,
-        name: "Fresh Milk (1L)",
-        price: 12.50,
-        image: "https://www.pinterest.com/i/6f9rbf3M2/"
-        category: "dairy",
-        description: "Fresh, creamy milk from local farms"
-    },
+    
     {
         id: 2,
         name: "Yogurt (500ml)",
