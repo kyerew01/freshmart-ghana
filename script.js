@@ -13,7 +13,7 @@ const products = [
         id: 3,
         name: "Plantain Chips",
         price: 5.50,
-        image: "https://images.unsplash.com/photo-1587132137056-bfbf0166836e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+        image: "https://www.pinterest.com/i/5wF9qkCvh/plantain-chips/?lp=true",
         category: "snacks",
         description: "Crispy fried plantain chips"
     },
